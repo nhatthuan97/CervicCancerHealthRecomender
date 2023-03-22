@@ -3,6 +3,7 @@ The goal of this note book is to replicate the research done by the paper with t
 Overall some notes in implemenatation:
 - SMOTE has to be used to balance the training data set
 - Used different machines learning models for this dataset
+  - Current implemenation only have catboost
 - Biopsy is used as the target class
 - Use MOGA(Multi-Objective Genetic Algorithm to narrow down the feature sets --- Later) 
 
