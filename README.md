@@ -14,3 +14,6 @@ Kuanr, Madhusree, et al. “Health Recommender System for Cervical Cancer Progno
 - Reading sources: all pdf of the paper that is used. The notes for these pdf are inside a powerpoint fiel "Reading Report.pptx"
 - Data: location of the data used for training and testing
 - catboost_info: part of the catboos import
+
+#Link on the Dataset
+https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification?resource=download
